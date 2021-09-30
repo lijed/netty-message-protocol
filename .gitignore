@@ -1,0 +1,4 @@
+# Project exclude paths
+/netty-message-client/target/
+/netty-message-gper/target/
+/netty-message-server/target/
